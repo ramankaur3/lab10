@@ -1,0 +1,34 @@
+div {
+    width:100%;
+    height:300px;
+
+
+}
+div.Nursery {
+    background-color:grey;
+
+}
+div.L.K.G {
+    background-image: url("img/Chrysanthemum.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+div.U.K.G {
+    position: absolute;
+    left:0px;
+    top:600px;
+    background-size: cover;
+    background-position: center;
+    background-image: url("img/Desert.jpg");
+    
+}
+div.first {
+    position:absolute;
+    left:0;
+    top:600;
+    background-color:red;
+    opacity:0.3;
+
+
+}
